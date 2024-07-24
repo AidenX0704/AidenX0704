@@ -1,8 +1,8 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm GiserXiao.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Java/Python/Vue/TypeScript.
 - 📫 How to reach me: 576157165@qq.com
 - :iphone: Connect me by QQ: 576157165
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_28816581?spm=1000.2115.3001.5343)
